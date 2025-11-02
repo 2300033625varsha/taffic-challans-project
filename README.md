@@ -116,7 +116,7 @@ Address: Vaddeswaram, Andhra Pradesh, India
 📄 License
 MIT License - see LICENSE for details.
 
-🙏 Acknowledgments
+ Acknowledgments
 Andhra Pradesh Traffic Police
 
 IBM Research for Granite Nano
